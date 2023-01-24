@@ -1,22 +1,42 @@
 [
   {
+    "name": "Subscene Official",
+    "url": "https://subscene.com",
+    "icon": "https://icons.duckduckgo.com/ip3/subscene.com.ico",
+    "slug": "subscene-official",
+    "status": "down",
+    "uptime": "7.95%",
+    "uptimeDay": "7.95%",
+    "uptimeWeek": "7.95%",
+    "uptimeMonth": "7.95%",
+    "uptimeYear": "7.95%",
+    "time": 80,
+    "timeDay": 80,
+    "timeWeek": 80,
+    "timeMonth": 80,
+    "timeYear": 80,
+    "dailyMinutesDown": {
+      "2023-01-24": 0
+    }
+  },
+  {
     "name": "Sub Berkas",
     "url": "https://sub.berkas.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/sub.berkas.eu.org.ico",
     "slug": "sub-berkas",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 283,
-    "timeDay": 283,
-    "timeWeek": 283,
-    "timeMonth": 283,
-    "timeYear": 283,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 235,
+    "timeDay": 235,
+    "timeWeek": 235,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2023-01-24": 22
+      "2023-01-24": 24
     }
   },
   {
@@ -25,19 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/subscene.eu.org.ico",
     "slug": "subs-eu",
     "status": "up",
-    "uptime": "1.30%",
-    "uptimeDay": "1.30%",
-    "uptimeWeek": "1.30%",
-    "uptimeMonth": "1.30%",
-    "uptimeYear": "1.30%",
-    "time": 284,
-    "timeDay": 284,
-    "timeWeek": 284,
-    "timeMonth": 284,
-    "timeYear": 284,
-    "dailyMinutesDown": {
-      "2023-01-24": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 283,
+    "timeDay": 283,
+    "timeWeek": 283,
+    "timeMonth": 283,
+    "timeYear": 283,
+    "dailyMinutesDown": {}
   },
   {
     "name": "softsub cf",
@@ -50,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 10425,
-    "timeDay": 10425,
-    "timeWeek": 10425,
-    "timeMonth": 10425,
-    "timeYear": 10425,
+    "time": 8540,
+    "timeDay": 8540,
+    "timeWeek": 8540,
+    "timeMonth": 8540,
+    "timeYear": 8540,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 10144,
-    "timeDay": 10144,
-    "timeWeek": 10144,
-    "timeMonth": 10144,
-    "timeYear": 10144,
+    "time": 6906,
+    "timeDay": 6906,
+    "timeWeek": 6906,
+    "timeMonth": 6906,
+    "timeYear": 6906,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4601,
-    "timeDay": 4601,
-    "timeWeek": 4601,
-    "timeMonth": 4601,
-    "timeYear": 4601,
+    "time": 4325,
+    "timeDay": 4325,
+    "timeWeek": 4325,
+    "timeMonth": 4325,
+    "timeYear": 4325,
     "dailyMinutesDown": {}
   }
 ]
