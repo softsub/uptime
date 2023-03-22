@@ -60,10 +60,10 @@
     "url": "https://softsub.cf",
     "icon": "https://icons.duckduckgo.com/ip3/softsub.cf.ico",
     "slug": "softsub-cf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1576,
@@ -71,17 +71,19 @@
     "timeWeek": 562,
     "timeMonth": 977,
     "timeYear": 1576,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-22": 1
+    }
   },
   {
     "name": "softsub tk",
     "url": "https://softsub.tk",
     "icon": "https://icons.duckduckgo.com/ip3/softsub.tk.ico",
     "slug": "softsub-tk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 942,
@@ -89,16 +91,18 @@
     "timeWeek": 495,
     "timeMonth": 610,
     "timeYear": 942,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-22": 1
+    }
   },
   {
     "name": "softsub ga",
     "url": "https://softsub.ga",
     "icon": "https://icons.duckduckgo.com/ip3/softsub.ga.ico",
     "slug": "softsub-ga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.10%",
@@ -108,6 +112,7 @@
     "timeMonth": 541,
     "timeYear": 1836,
     "dailyMinutesDown": {
+      "2023-03-22": 0,
       "2023-03-20": 26,
       "2023-02-18": 128,
       "2023-02-17": 11,
