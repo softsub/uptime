@@ -60,19 +60,19 @@
     "url": "https://softsub.cf",
     "icon": "https://icons.duckduckgo.com/ip3/softsub.cf.ico",
     "slug": "softsub-cf",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1560,
-    "timeDay": 543,
-    "timeWeek": 574,
-    "timeMonth": 966,
-    "timeYear": 1560,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1702,
+    "timeDay": 3710,
+    "timeWeek": 1626,
+    "timeMonth": 1279,
+    "timeYear": 1702,
     "dailyMinutesDown": {
-      "2023-03-22": 1
+      "2023-03-22": 13
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://softsub.tk",
     "icon": "https://icons.duckduckgo.com/ip3/softsub.tk.ico",
     "slug": "softsub-tk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 999,
-    "timeDay": 2386,
-    "timeWeek": 967,
-    "timeMonth": 741,
-    "timeYear": 999,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 993,
+    "timeDay": 1803,
+    "timeWeek": 931,
+    "timeMonth": 737,
+    "timeYear": 993,
     "dailyMinutesDown": {
-      "2023-03-22": 0
+      "2023-03-22": 12
     }
   },
   {
