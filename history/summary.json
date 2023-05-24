@@ -4,18 +4,20 @@
     "url": "https://subscene.com",
     "icon": "https://icons.duckduckgo.com/ip3/subscene.com.ico",
     "slug": "subscene-official",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 1730,
-    "timeWeek": 509,
-    "timeMonth": 202,
+    "timeDay": 1184,
+    "timeWeek": 463,
+    "timeMonth": 199,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-24": 0
+    }
   },
   {
     "name": "Sub Berkas",
