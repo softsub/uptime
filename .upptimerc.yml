@@ -9,12 +9,8 @@ sites:
     url: https://sub.berkas.eu.org
   - name: Subs EU
     url: https://subscene.eu.org
-  - name: softsub cf
-    url: https://softsub.cf
-  - name: softsub tk
-    url: https://softsub.tk
-  - name: softsub ga
-    url: https://softsub.ga
+  - name: Softsub
+    url: https://softsub.eu.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
