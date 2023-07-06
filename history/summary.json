@@ -16,7 +16,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-07-06": 1221,
+      "2023-07-06": 1310,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 92
@@ -39,7 +39,7 @@
     "timeMonth": 170,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-07-06": 1221,
+      "2023-07-06": 1310,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 92
@@ -50,17 +50,17 @@
     "url": "https://subscene.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/subscene.eu.org.ico",
     "slug": "subs-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.95%",
+    "uptimeDay": "96.94%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
-    "time": 1091,
-    "timeDay": 665,
-    "timeWeek": 577,
-    "timeMonth": 1940,
-    "timeYear": 1091,
+    "time": 1087,
+    "timeDay": 648,
+    "timeWeek": 574,
+    "timeMonth": 1903,
+    "timeYear": 1087,
     "dailyMinutesDown": {
       "2023-07-06": 44
     }
@@ -71,11 +71,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/softsub.eu.org.ico",
     "slug": "softsub",
     "status": "up",
-    "uptime": "97.44%",
+    "uptime": "97.49%",
     "uptimeDay": "92.53%",
-    "uptimeWeek": "97.44%",
-    "uptimeMonth": "97.44%",
-    "uptimeYear": "97.44%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "97.49%",
     "time": 1382,
     "timeDay": 1670,
     "timeWeek": 1382,
