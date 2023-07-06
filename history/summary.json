@@ -16,7 +16,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-07-06": 1196,
+      "2023-07-06": 1221,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 92
@@ -39,7 +39,7 @@
     "timeMonth": 170,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-07-06": 1196,
+      "2023-07-06": 1221,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 92
@@ -52,9 +52,9 @@
     "slug": "subs-eu",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.02%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 1091,
     "timeDay": 665,
@@ -62,7 +62,7 @@
     "timeMonth": 1940,
     "timeYear": 1091,
     "dailyMinutesDown": {
-      "2023-07-06": 57
+      "2023-07-06": 44
     }
   },
   {
@@ -70,19 +70,19 @@
     "url": "https://softsub.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/softsub.eu.org.ico",
     "slug": "softsub",
-    "status": "down",
-    "uptime": "98.03%",
-    "uptimeDay": "94.29%",
-    "uptimeWeek": "98.03%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "98.03%",
-    "time": 1425,
-    "timeDay": 1774,
-    "timeWeek": 1425,
-    "timeMonth": 1425,
-    "timeYear": 1425,
+    "status": "up",
+    "uptime": "97.44%",
+    "uptimeDay": "92.53%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "97.44%",
+    "uptimeYear": "97.44%",
+    "time": 1382,
+    "timeDay": 1670,
+    "timeWeek": 1382,
+    "timeMonth": 1382,
+    "timeYear": 1382,
     "dailyMinutesDown": {
-      "2023-07-06": 82
+      "2023-07-06": 108
     }
   }
 ]
