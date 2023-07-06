@@ -16,7 +16,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-07-06": 1016,
+      "2023-07-06": 1040,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 92
@@ -39,7 +39,7 @@
     "timeMonth": 170,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-07-06": 1016,
+      "2023-07-06": 1040,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 92
@@ -70,19 +70,19 @@
     "url": "https://softsub.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/softsub.eu.org.ico",
     "slug": "softsub",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
-    "time": 586,
-    "timeDay": 567,
-    "timeWeek": 586,
-    "timeMonth": 586,
-    "timeYear": 586,
+    "status": "up",
+    "uptime": "98.80%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.80%",
+    "time": 577,
+    "timeDay": 556,
+    "timeWeek": 577,
+    "timeMonth": 577,
+    "timeYear": 577,
     "dailyMinutesDown": {
-      "2023-07-06": 24
+      "2023-07-06": 48
     }
   }
 ]
