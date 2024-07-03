@@ -11,16 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.62%",
     "time": 116,
-    "timeDay": 98,
-    "timeWeek": 126,
-    "timeMonth": 121,
+    "timeDay": 141,
+    "timeWeek": 128,
+    "timeMonth": 122,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2023-07-08": 1391,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
-      "2023-07-05": 1440,
-      "2023-07-04": 1440
+      "2023-07-05": 1440
     }
   },
   {
@@ -35,9 +34,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.40%",
     "time": 407,
-    "timeDay": 262,
-    "timeWeek": 349,
-    "timeMonth": 397,
+    "timeDay": 355,
+    "timeWeek": 336,
+    "timeMonth": 400,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2024-06-20": 75,
@@ -50,8 +49,7 @@
       "2023-07-08": 1391,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
-      "2023-07-05": 1440,
-      "2023-07-04": 1440
+      "2023-07-05": 1440
     }
   },
   {
@@ -60,16 +58,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/subscene.eu.org.ico",
     "slug": "subs-eu",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1515,
-    "timeDay": 413,
-    "timeWeek": 365,
-    "timeMonth": 454,
-    "timeYear": 1616,
+    "time": 1516,
+    "timeDay": 708,
+    "timeWeek": 430,
+    "timeMonth": 464,
+    "timeYear": 1617,
     "dailyMinutesDown": {
       "2024-03-02": 33,
       "2024-02-23": 286,
@@ -91,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1258,
-    "timeDay": 267,
-    "timeWeek": 1003,
-    "timeMonth": 591,
-    "timeYear": 1258,
+    "time": 1256,
+    "timeDay": 463,
+    "timeWeek": 1008,
+    "timeMonth": 593,
+    "timeYear": 1256,
     "dailyMinutesDown": {
       "2024-02-23": 151,
       "2024-02-22": 87,
