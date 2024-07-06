@@ -9,15 +9,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "99.20%",
     "time": 116,
-    "timeDay": 146,
-    "timeWeek": 125,
+    "timeDay": 105,
+    "timeWeek": 117,
     "timeMonth": 122,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2023-07-08": 1391,
-      "2023-07-07": 1440
+      "2023-07-08": 1391
     }
   },
   {
@@ -26,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sub.berkas.eu.org.ico",
     "slug": "subs-berkas",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "98.71%",
-    "time": 408,
-    "timeDay": 335,
-    "timeWeek": 398,
-    "timeMonth": 405,
-    "timeYear": 410,
+    "uptimeYear": "98.98%",
+    "time": 421,
+    "timeDay": 5326,
+    "timeWeek": 1107,
+    "timeMonth": 557,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2024-06-20": 75,
       "2024-04-06": 532,
@@ -44,8 +43,7 @@
       "2024-04-01": 212,
       "2024-03-29": 53,
       "2024-03-28": 49,
-      "2023-07-08": 1391,
-      "2023-07-07": 1440
+      "2023-07-08": 1391
     }
   },
   {
@@ -59,18 +57,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1524,
-    "timeDay": 5339,
-    "timeWeek": 1172,
-    "timeMonth": 623,
-    "timeYear": 1630,
+    "time": 1525,
+    "timeDay": 693,
+    "timeWeek": 1187,
+    "timeMonth": 632,
+    "timeYear": 1631,
     "dailyMinutesDown": {
       "2024-03-02": 33,
       "2024-02-23": 286,
       "2024-02-22": 87,
       "2023-08-29": 17,
-      "2023-08-28": 19,
-      "2023-07-07": 120
+      "2023-08-28": 19
     }
   },
   {
@@ -84,17 +81,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1253,
-    "timeDay": 457,
-    "timeWeek": 1021,
-    "timeMonth": 599,
-    "timeYear": 1257,
+    "time": 1263,
+    "timeDay": 5536,
+    "timeWeek": 1729,
+    "timeMonth": 766,
+    "timeYear": 1269,
     "dailyMinutesDown": {
       "2024-02-23": 151,
       "2024-02-22": 87,
       "2023-08-28": 19,
-      "2023-08-27": 19,
-      "2023-07-07": 233
+      "2023-08-27": 19
     }
   }
 ]
