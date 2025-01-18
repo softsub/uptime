@@ -4,18 +4,20 @@
     "url": "https://subscene.com",
     "icon": "https://icons.duckduckgo.com/ip3/subscene.com.ico",
     "slug": "subscene-ofc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 133,
-    "timeWeek": 122,
+    "timeDay": 132,
+    "timeWeek": 123,
     "timeMonth": 129,
     "timeYear": 133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-18": 0
+    }
   },
   {
     "name": "Subs Berkas",
