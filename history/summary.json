@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/subscene.com.ico",
     "slug": "subscene-ofc",
     "status": "down",
-    "uptime": "75.68%",
+    "uptime": "75.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "52.12%",
+    "uptimeYear": "51.85%",
     "time": 137,
-    "timeDay": 95,
-    "timeWeek": 121,
-    "timeMonth": 128,
+    "timeDay": 103,
+    "timeWeek": 114,
+    "timeMonth": 129,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-07-12": 77,
+      "2025-07-13": 82,
+      "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -200,16 +201,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sub.berkas.eu.org.ico",
     "slug": "subs-berkas",
     "status": "up",
-    "uptime": "96.91%",
+    "uptime": "96.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.32%",
+    "uptimeYear": "96.60%",
     "time": 872,
-    "timeDay": 766,
-    "timeWeek": 757,
-    "timeMonth": 1442,
-    "timeYear": 951,
+    "timeDay": 458,
+    "timeWeek": 684,
+    "timeMonth": 1272,
+    "timeYear": 950,
     "dailyMinutesDown": {
       "2024-07-25": 697,
       "2024-07-24": 1440,
@@ -222,8 +223,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   },
   {
@@ -236,12 +236,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.32%",
+    "uptimeYear": "96.60%",
     "time": 839,
-    "timeDay": 416,
-    "timeWeek": 1273,
-    "timeMonth": 929,
-    "timeYear": 875,
+    "timeDay": 489,
+    "timeWeek": 1245,
+    "timeMonth": 918,
+    "timeYear": 874,
     "dailyMinutesDown": {
       "2024-07-25": 697,
       "2024-07-24": 1440,
@@ -254,8 +254,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1426,
-      "2024-07-13": 1440
+      "2024-07-14": 1426
     }
   },
   {
@@ -264,16 +263,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/softsub.eu.org.ico",
     "slug": "softsub",
     "status": "up",
-    "uptime": "97.64%",
+    "uptime": "97.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.32%",
+    "uptimeYear": "96.60%",
     "time": 724,
-    "timeDay": 1074,
-    "timeWeek": 609,
-    "timeMonth": 733,
-    "timeYear": 736,
+    "timeDay": 470,
+    "timeWeek": 571,
+    "timeMonth": 734,
+    "timeYear": 735,
     "dailyMinutesDown": {
       "2024-07-25": 697,
       "2024-07-24": 1440,
@@ -286,8 +285,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   }
 ]
