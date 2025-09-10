@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/subscene.com.ico",
     "slug": "subscene-ofc",
     "status": "down",
-    "uptime": "69.98%",
+    "uptime": "69.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 169,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-09-10": 401,
+      "2025-09-10": 413,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -259,19 +259,19 @@
     "url": "https://sub.berkas.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/sub.berkas.eu.org.ico",
     "slug": "subs-berkas",
-    "status": "down",
+    "status": "up",
     "uptime": "97.14%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 861,
-    "timeDay": 693,
-    "timeWeek": 710,
-    "timeMonth": 744,
-    "timeYear": 969,
+    "timeDay": 544,
+    "timeWeek": 671,
+    "timeMonth": 734,
+    "timeYear": 967,
     "dailyMinutesDown": {
-      "2025-09-10": 2
+      "2025-09-10": 14
     }
   },
   {
@@ -279,19 +279,19 @@
     "url": "https://subscene.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/subscene.eu.org.ico",
     "slug": "subs-eu",
-    "status": "down",
+    "status": "up",
     "uptime": "98.18%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 556,
-    "timeWeek": 581,
-    "timeMonth": 601,
-    "timeYear": 816,
+    "time": 806,
+    "timeDay": 464,
+    "timeWeek": 555,
+    "timeMonth": 594,
+    "timeYear": 815,
     "dailyMinutesDown": {
-      "2025-09-10": 0
+      "2025-09-10": 13
     }
   },
   {
