@@ -1,7 +1,7 @@
 url: https://softsub.eu.org
-status: up
-code: 200
-responseTime: 856
-lastUpdated: 2025-10-22T23:15:15.283Z
+status: down
+code: 500
+responseTime: 237
+lastUpdated: 2025-10-23T03:54:51.067Z
 startTime: 2023-07-03T22:28:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
