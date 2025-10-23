@@ -16,7 +16,7 @@
     "timeMonth": 157,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-10-23": 511,
+      "2025-10-23": 533,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
@@ -302,19 +302,19 @@
     "url": "https://sub.berkas.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/sub.berkas.eu.org.ico",
     "slug": "subs-berkas",
-    "status": "down",
+    "status": "up",
     "uptime": "97.29%",
-    "uptimeDay": "97.40%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "95.94%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 892,
-    "timeDay": 2551,
-    "timeWeek": 1105,
-    "timeMonth": 741,
-    "timeYear": 947,
+    "timeDay": 1814,
+    "timeWeek": 1020,
+    "timeMonth": 729,
+    "timeYear": 945,
     "dailyMinutesDown": {
-      "2025-10-23": 37
+      "2025-10-23": 59
     }
   },
   {
