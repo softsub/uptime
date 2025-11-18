@@ -1,7 +1,7 @@
 url: https://subscene.eu.org
-status: up
-code: 200
-responseTime: 496
-lastUpdated: 2025-11-17T23:17:07.326Z
+status: down
+code: 500
+responseTime: 5110
+lastUpdated: 2025-11-18T11:35:14.462Z
 startTime: 2023-01-24T23:27:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
