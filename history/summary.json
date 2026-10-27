@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/subscene.com.ico",
     "slug": "subscene-ofc",
     "status": "up",
-    "uptime": "60.51%",
+    "uptime": "60.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "47.38%",
-    "time": 199,
-    "timeDay": 246,
-    "timeWeek": 276,
-    "timeMonth": 320,
-    "timeYear": 216,
+    "uptimeYear": "47.66%",
+    "time": 200,
+    "timeDay": 378,
+    "timeWeek": 300,
+    "timeMonth": 319,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2026-05-06": 245,
       "2026-05-05": 1440,
@@ -206,8 +206,7 @@
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
-      "2025-10-28": 1440,
-      "2025-10-27": 1440
+      "2025-10-28": 1440
     }
   },
   {
@@ -216,16 +215,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sub.berkas.eu.org.ico",
     "slug": "subs-berkas",
     "status": "up",
-    "uptime": "98.10%",
+    "uptime": "98.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 731,
-    "timeDay": 632,
-    "timeWeek": 542,
-    "timeMonth": 621,
-    "timeYear": 710,
+    "time": 732,
+    "timeDay": 1203,
+    "timeWeek": 642,
+    "timeMonth": 629,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2025-11-18": 102
     }
@@ -241,10 +240,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 636,
-    "timeDay": 669,
-    "timeWeek": 477,
-    "timeMonth": 496,
+    "time": 626,
+    "timeDay": 387,
+    "timeWeek": 491,
+    "timeMonth": 489,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2025-11-18": 147
@@ -262,10 +261,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 582,
-    "timeDay": 644,
-    "timeWeek": 509,
-    "timeMonth": 482,
-    "timeYear": 573,
+    "timeDay": 567,
+    "timeWeek": 491,
+    "timeMonth": 470,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2025-11-18": 147
     }
