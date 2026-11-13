@@ -4,17 +4,17 @@
     "url": "https://subscene.com",
     "icon": "https://icons.duckduckgo.com/ip3/subscene.com.ico",
     "slug": "subscene-ofc",
-    "status": "up",
-    "uptime": "61.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "61.11%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.34%",
-    "time": 207,
-    "timeDay": 279,
-    "timeWeek": 306,
-    "timeMonth": 327,
-    "timeYear": 226,
+    "uptimeYear": "52.47%",
+    "time": 246,
+    "timeDay": 9939,
+    "timeWeek": 2717,
+    "timeMonth": 929,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2026-05-06": 245,
       "2026-05-05": 1440,
@@ -189,7 +189,8 @@
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
-      "2025-11-14": 1440
+      "2025-11-14": 1440,
+      "2026-11-13": 1
     }
   },
   {
