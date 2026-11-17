@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/subscene.com.ico",
     "slug": "subscene-ofc",
     "status": "up",
-    "uptime": "61.17%",
+    "uptime": "61.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.72%",
     "uptimeMonth": "99.25%",
-    "uptimeYear": "53.09%",
-    "time": 247,
-    "timeDay": 256,
-    "timeWeek": 2436,
-    "timeMonth": 898,
-    "timeYear": 280,
+    "uptimeYear": "53.38%",
+    "time": 248,
+    "timeDay": 405,
+    "timeWeek": 2444,
+    "timeMonth": 901,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2026-05-06": 245,
       "2026-05-05": 1440,
@@ -186,7 +186,6 @@
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
-      "2025-11-17": 1440,
       "2026-11-13": 330
     }
   },
@@ -202,8 +201,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 709,
-    "timeDay": 404,
-    "timeWeek": 474,
+    "timeDay": 645,
+    "timeWeek": 494,
     "timeMonth": 570,
     "timeYear": 678,
     "dailyMinutesDown": {
@@ -221,11 +220,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 619,
-    "timeDay": 640,
-    "timeWeek": 524,
-    "timeMonth": 582,
-    "timeYear": 581,
+    "time": 618,
+    "timeDay": 408,
+    "timeWeek": 502,
+    "timeMonth": 576,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2025-11-18": 147
     }
@@ -242,9 +241,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 577,
-    "timeDay": 392,
-    "timeWeek": 472,
-    "timeMonth": 458,
+    "timeDay": 608,
+    "timeWeek": 500,
+    "timeMonth": 463,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2025-11-18": 147
